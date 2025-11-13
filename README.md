@@ -6,4 +6,4 @@ In the next stage, we focused on component structure, building reusable elements
 
 ---
 
-![Calculator Screenshot](calculator-screenshot.png)
+![Calculator Screenshot](calculator-screenshot.png.png)
