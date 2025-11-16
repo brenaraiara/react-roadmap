@@ -7,3 +7,9 @@ In the next stage, we focused on component structure, building reusable elements
 ---
 
 ![Calculator Screenshot](calculator-screenshot.png.png)
+
+In this lesson, we put theoretical concepts into practice by building a dynamic calculator. We created a structured list of buttons, organized in rows where each row is an array of objects representing individual buttons. Using the `map` method, we rendered both the rows and the buttons dynamically, eliminating repetitive code. The final result is a more interactive, clean, and scalable calculator that demonstrates the importance of dynamic rendering in modern front-end development.
+
+---
+
+![Calculator List Screenshot](calculator-list.png)
