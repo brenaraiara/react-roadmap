@@ -13,3 +13,5 @@ In this lesson, we put theoretical concepts into practice by building a dynamic 
 ---
 
 ![Calculator List Screenshot](calculator-list.png)
+
+In this module, you will bring React elements to life. You’ll start by learning about events, state, React Hooks, conditional rendering, list rendering, list filtering, Context API, Effects, and Custom Hooks. In addition, you will apply all these concepts in practice through the Calculator project.
