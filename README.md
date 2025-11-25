@@ -6,12 +6,12 @@ In the next stage, we focused on component structure, building reusable elements
 
 ---
 
-![Calculator Screenshot](calculator-screenshot.png.png)
+![Calculator Screenshot](calculator-screenshot.png)
 
 In this lesson, we put theoretical concepts into practice by building a dynamic calculator. We created a structured list of buttons, organized in rows where each row is an array of objects representing individual buttons. Using the `map` method, we rendered both the rows and the buttons dynamically, eliminating repetitive code. The final result is a more interactive, clean, and scalable calculator that demonstrates the importance of dynamic rendering in modern front-end development.
 
 ---
 
-![Calculator List Screenshot](calculator-list.png)
+![Calculator List Screenshot](calculator-list-screenshot.png)
 
 In this module, you will bring React elements to life. You’ll start by learning about events, state, React Hooks, conditional rendering, list rendering, list filtering, Context API, Effects, and Custom Hooks. In addition, you will apply all these concepts in practice through the Calculator project.
